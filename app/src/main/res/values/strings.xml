@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">TreasureFinder</string>
-
     <string name="dest_app">ru.altarix.creeperchest</string>
+
+    <string name="tell">Tell</string>
+    <string name="open">Open</string>
+    <string name="find_magic">Find Magic</string>
 </resources>
